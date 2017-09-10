@@ -35,6 +35,4 @@ object NetworkWordCount {
     ssc.start()
     ssc.awaitTermination()
   }
-
-
 }
