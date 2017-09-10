@@ -1,0 +1,1 @@
+case class Event (timestamp:String, user_id: Int, event: String, channel_id: Int, message_id: Int)
