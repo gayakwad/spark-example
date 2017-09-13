@@ -1,0 +1,1 @@
+case class UserStats(user_id: Int, sessionStartTime: Long, sessionEndTime: Long, channelToMessage: Map[Int, Int]) extends Serializable
